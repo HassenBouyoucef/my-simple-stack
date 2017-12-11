@@ -2,7 +2,7 @@ package deqo.bhas.mysimplestack;
 
 import java.util.Stack;
 
-/*exigence 3*/
+/*exigence repnde3*/
 public class SimpleStackImpl implements SimpleStack {
 
     Stack wrappedStack = new Stack<Object>();
